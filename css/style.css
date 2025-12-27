@@ -64,3 +64,18 @@ body {
 .mebelisti-table tr:hover {
   background: #fafafa;
 }
+
+.hero {
+  margin-bottom: 30px;
+}
+
+#search {
+  font-size: 16px;
+}
+
+footer {
+  margin-top: 40px;
+  padding: 20px;
+  text-align: center;
+  border-top: 1px solid #eee;
+}
