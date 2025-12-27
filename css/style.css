@@ -1,0 +1,66 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #fff;
+  color: #222;
+}
+
+.header {
+  padding: 15px;
+  border-bottom: 1px solid #eee;
+}
+
+.logo {
+  height: 45px;
+}
+
+.hero {
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.hero img {
+  max-width: 100%;
+  border-radius: 6px;
+}
+
+.btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 20px;
+  background: #ff7a00;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+.container {
+  max-width: 1000px;
+  margin: auto;
+  padding: 20px;
+}
+
+#search {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+.mebelisti-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.mebelisti-table th,
+.mebelisti-table td {
+  padding: 12px;
+  border-bottom: 1px solid #ddd;
+}
+
+.mebelisti-table th {
+  background: #f5f5f5;
+}
+
+.mebelisti-table tr:hover {
+  background: #fafafa;
+}
