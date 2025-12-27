@@ -24,6 +24,10 @@ body {
   border-radius: 6px;
 }
 
+.hero-image {
+  background-image: url("../assets/banner.jpg");
+}
+
 .btn {
   display: inline-block;
   margin-top: 20px;
