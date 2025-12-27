@@ -24,10 +24,6 @@ body {
   border-radius: 6px;
 }
 
-.hero-image {
-  background-image: url("../assets/banner.jpg");
-}
-
 .btn {
   display: inline-block;
   margin-top: 20px;
@@ -102,7 +98,7 @@ body {
 .hero-image {
   position: absolute;
   inset: 0;
-  background-image: url("../assets/banner.jpg");
+  background-image: url("../assets/banner.png");
   background-size: cover;
   background-position: center;
 
